@@ -1,1 +1,1 @@
-# tebak-kata
+# tebak-kata sederhana menggunakan Ruby
